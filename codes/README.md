@@ -11,7 +11,7 @@ Here, we release the accompanying python code for the paper: R. Yokota, Y. Kamin
 
 Our code requires the sequence alignment library "parasail" (https://github.com/jeffdaily/parasail).  
 Before running the code, please install the library by following the instructions on the parasail Github page on the above link. 
-Our software consists with the following directory tree.
+Our software consists with the following directory tree;
 
 ```
 .
