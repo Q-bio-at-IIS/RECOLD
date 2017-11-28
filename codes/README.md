@@ -24,13 +24,14 @@ Our software consists with the following directory tree;
         ├── mymodules.py
         └── mymodules.pyc
 ```
-In our article,  we used the published data from the other papers.   To confirm that our code works well, please download the supplementary data1 of Rempala et al., (2011)[^footnote] for the website of  Journal of Theoretical Biology, and storage the downloaded csv file in the "Data" directory.  
+In our article,  we used the published data from the other papers.   To confirm that our code works well, please download the supplementary data1 of Rempala et al., (2011)[^1] for the website of  Journal of Theoretical Biology, and storage the downloaded csv file in the "Data" directory.
 When you run the main.py,  the output files are generated in the MatData directory.  
 
 ### Please cite RECOLD as:
 Yokota R, Kaminaga Y and Kobayashi TJ (2017) Quantification of Inter-Sample Differences in T-Cell Receptor Repertoires Using Sequence-Based Information. Front. Immunol. 8:1500. doi: 10.3389/fimmu.2017.01500
 
- [^footnote]: Rempala GA, Seweryn M, Ignatowicz ., “Model for comparative analysis of antigen receptor repertoires.”, Journal of Theoretical Biology, Vol.269., pp.1-15, (2011).   
+### Reference
+ [^1]: Rempala GA, Seweryn M, Ignatowicz ., “Model for comparative analysis of antigen receptor repertoires.”, Journal of Theoretical Biology, Vol.269., pp.1-15, (2011).
 
 
 
