@@ -2,7 +2,7 @@ REpertoire COmparison in Low Dimensions (RECOLD)
 ===================
 
 
-RECOLD is a comparison method of T cell receptor (TCR) repertoires among different samples.   
+RECOLD is a method to compare T cell receptor (TCR) repertoires among different samples.   
 Here, we release the accompanying python code for the paper: R. Yokota, Y. Kaminaga, and T.J. Kobayashi, "Quantification of inter-sample differences in T cell receptor repertoires using sequence-based information", *Front. Immunol.*, 8:1500; doi: 10.3389/fimmu.2017.01500.
 
 ----------
