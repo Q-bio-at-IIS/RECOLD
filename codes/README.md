@@ -24,7 +24,7 @@ Our software consists with the following directory tree;
         ├── mymodules.py
         └── mymodules.pyc
 ```
-In our article,  we used the published data from the other papers.   To confirm that our code works well, please download the supplementary data1 of Rempala et al., (2011)[^1] for the website of  Journal of Theoretical Biology, and storage the downloaded csv file in the "Data" directory.
+In our article,  we used the published data from the other papers.   To confirm that our code works well, please download the supplementary data1 of Rempala et al., (2011)[^1] from the website of Journal of Theoretical Biology, and storage the downloaded csv file in the "Data" directory.
 When you run the main.py,  the output files are generated in the MatData directory.  
 
 ### Please cite RECOLD as:
